@@ -7,7 +7,7 @@ import {
   purgeStoredState,
 } from "redux-persist";
 
-import immutableTransform from "./immutableTransform";
+import immutableTransform from "redux-persist-transform-immutable";
 import * as operators from "./operators";
 import { stateReconciler } from "./reconciler";
 
