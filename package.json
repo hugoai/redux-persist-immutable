@@ -26,7 +26,7 @@
   "author": "Stephane Rufer <stephane.rufer@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.16.0",
+    "ava": "^5.1.0",
     "babel-cli": "^6.9.0",
     "babel-eslint": "^6.0.4",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
